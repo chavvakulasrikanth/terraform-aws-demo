@@ -1,1 +1,2 @@
-# terraform-aws-demo
+# terraform-class-demo
+terraform-class-demo
